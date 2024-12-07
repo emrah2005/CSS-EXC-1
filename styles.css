@@ -1,0 +1,40 @@
+h1:first-of-type{
+    color: red;
+}
+p:nth-of-type(1) span{
+    color: blue;
+}
+p:nth-of-type(2) {
+    color: green;
+}
+img {
+    border-radius: 50%;
+  }
+ .facebook{
+    margin-left: 20%;
+ }
+ h1:nth-of-type(2){
+    color: gray;
+ }
+#dedicated{
+    color: green;
+    font-weight: bolder;
+}
+#humble{
+    color: gray;
+    font-style: italic;
+    
+}
+#honest{
+    color: green;
+    
+    font-weight: bold;
+}
+#quote{
+    color: green;
+}
+#quote-text{
+ color: gray;
+    letter-spacing: 10px;
+    margin-left: 20%;
+}
